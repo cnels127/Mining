@@ -16,7 +16,7 @@ global sendworker3 yes
 
 global asicboost yes
 global autotune yes
-global maxwatts 1000
+global maxwatts 1200
 global autoupdate no
 global allowed yes
 global maxtemp 90 1
