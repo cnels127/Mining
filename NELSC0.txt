@@ -28,12 +28,13 @@ global blinkgreen rapid
 
 # global retune 1
 # global reboot 1
-global reset 1574227534
+# global reset 1574227534
 # global panelpass gj83Nkgikg
 
 ## vlans
 
 ## locations
+257df9 location t90001
 
 ## tuning
 
