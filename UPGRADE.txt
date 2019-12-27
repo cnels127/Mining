@@ -1,3 +1,6 @@
+## Panel
+global custompanel AHOPF0bit049
+
 ## IP list to upgrade
 vlan 10.0.115.70-70
 vlan 10.0.115.151-151
