@@ -1,7 +1,7 @@
 global custompanel NELSC0bit049
 global customer cnels
 
-global poolname1 profit.pool.bitcoin.com:3333
+global poolname1 bch.pool.bitcoin.com:3333
 global username1 cnels127
 global poolpass1 123
 global sendworker1 yes
