@@ -20,8 +20,8 @@ global maxwatts 1400
 global autoupdate yes
 global allowed yes
 global maxtemp 90 1
-global throttle 50
-global fanspeed 80
+global throttle 25
+global fanspeed 85
 global fansaver yes
 global blinkred idle
 global blinkgreen rapid
@@ -43,6 +43,9 @@ global blinkgreen rapid
 ## reboots
 
 ## resets
+
+## removals
+global remove e75b36,306cf8
 
 ## asic password
 asicpass admin
