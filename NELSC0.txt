@@ -35,6 +35,7 @@ global blinkgreen rapid
 
 ## locations
 257df9 location t90001
+8a7d6c location s90001
 
 ## tuning
 
