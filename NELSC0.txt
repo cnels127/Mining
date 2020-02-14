@@ -32,10 +32,14 @@ global blinkgreen rapid
 # global panelpass gj83Nkgikg
 
 ## vlans
+vlan 192.168.0.91-91 # t90001
+vlan 192.168.0.118-118 # s90001
+vlan 192.168.0.178-178 # s90002
 
 ## locations
 257df9 location t90001
 8a7d6c location s90001
+8a7d6c location s90002
 
 ## tuning
 
