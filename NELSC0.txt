@@ -29,7 +29,7 @@ global blinkgreen rapid
 # global retune 1
 # global reboot 1
 # global reset 1574227534
-# global panelpass gj83Nkgikg
+global panelpass h@$hp0w3r
 
 ## vlans
 
